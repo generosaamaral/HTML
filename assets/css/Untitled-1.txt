@@ -1,0 +1,9 @@
+<figure>
+   <igm src= "assets/images/img01.jfif">
+   <img src= "assets/images/img03.jfif">
+   <img src= "assets/images/img07.jfif">
+   <img src= "assets/images/img04.jfif">
+   <img src= "assets/images/img05.jfif">
+   <img src= "assets/images/img06.jfif">
+
+</figure>

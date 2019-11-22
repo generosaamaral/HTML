@@ -1,0 +1,47 @@
+
+      /* alteração de menu */
+      ul{
+         list-style: ;
+         display: flex;
+         justify-content: center;
+         color: black;
+     
+     
+      }
+   
+      ul li{
+         
+         display: inline; /* tornar minha lista horizontal*/
+         padding: 3%;
+      }
+
+      a{
+         text-decoration: none;
+         
+      
+      }
+   .center{
+      display: flex;
+      justify-content:
+      center;
+   }
+
+   .flex-container{
+      display: flex;
+      justify-content: flex-end;
+   }
+   body{
+      background-color: rgb(236, 209, 228);
+      background-image: url(images1)
+   }
+   p{ text-align: left;
+   margin-right: 80%;
+   margin-top: 10%;
+
+
+
+
+   }
+
+  
+   
